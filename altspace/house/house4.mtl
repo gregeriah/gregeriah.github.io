@@ -10,8 +10,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_000.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_000.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_000.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_000.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_001.jpg
 Ns 96.078431
@@ -22,8 +22,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_001.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_001.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_001.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_001.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_002.jpg
 Ns 96.078431
@@ -34,8 +34,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_002.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_002.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_002.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_002.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_003.jpg
 Ns 96.078431
@@ -46,8 +46,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_003.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_003.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_003.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_003.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_004.jpg
 Ns 96.078431
@@ -58,8 +58,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_004.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_004.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_004.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_004.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_005.jpg
 Ns 96.078431
@@ -70,8 +70,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_005.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_005.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_005.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_005.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_006.jpg
 Ns 96.078431
@@ -82,8 +82,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_006.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_006.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_006.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_006.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_007.jpg
 Ns 96.078431
@@ -94,8 +94,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_007.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_007.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_007.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_007.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_007.jpg_NONE
 Ns 96.078431
@@ -106,8 +106,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_007.jpg
-map_Kd C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_007.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_007.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_007.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_008.jpg
 Ns 96.078431
@@ -118,8 +118,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_008.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_008.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_008.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_008.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_009.jpg
 Ns 96.078431
@@ -130,8 +130,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_009.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_009.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_009.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_009.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_010.jpg
 Ns 96.078431
@@ -142,8 +142,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_010.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_010.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_010.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_010.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_011.jpg
 Ns 96.078431
@@ -154,8 +154,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_011.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_011.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_011.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_011.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_012.jpg
 Ns 96.078431
@@ -166,8 +166,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_012.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_012.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_012.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_012.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_013.jpg
 Ns 96.078431
@@ -178,8 +178,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_013.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_013.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_013.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_013.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_014.jpg
 Ns 96.078431
@@ -190,8 +190,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_014.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_014.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_014.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_014.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_015.jpg
 Ns 96.078431
@@ -202,8 +202,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_015.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_015.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_015.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_015.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_016.jpg
 Ns 96.078431
@@ -214,8 +214,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_016.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_016.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_016.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_016.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_017.jpg
 Ns 96.078431
@@ -226,8 +226,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_017.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_017.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_017.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_017.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_018.jpg
 Ns 96.078431
@@ -238,8 +238,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_018.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_018.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_018.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_018.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_019.jpg
 Ns 96.078431
@@ -250,8 +250,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_019.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_019.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_019.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_019.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_020.jpg
 Ns 96.078431
@@ -262,8 +262,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_020.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_020.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_020.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_020.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_021.jpg
 Ns 96.078431
@@ -274,8 +274,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_021.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_021.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_021.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_021.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_021.jpg_NONE
 Ns 96.078431
@@ -286,8 +286,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_021.jpg
-map_Kd C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_021.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_021.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_021.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_022.jpg
 Ns 96.078431
@@ -298,8 +298,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_022.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_022.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_022.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_022.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_023.jpg
 Ns 96.078431
@@ -310,8 +310,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_023.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_023.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_023.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_023.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_023.jpg_NONE
 Ns 96.078431
@@ -322,8 +322,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_023.jpg
-map_Kd C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_023.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_023.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_023.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_024.jpg
 Ns 96.078431
@@ -334,8 +334,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_024.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_024.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_024.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_024.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_025.jpg
 Ns 96.078431
@@ -346,8 +346,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_025.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_025.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_025.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_025.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_026.jpg
 Ns 96.078431
@@ -358,8 +358,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_026.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_026.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_026.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_026.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_027.jpg
 Ns 96.078431
@@ -370,8 +370,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_027.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_027.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_027.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_027.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_028.jpg
 Ns 96.078431
@@ -382,8 +382,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_028.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_028.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_028.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_028.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_029.jpg
 Ns 96.078431
@@ -394,8 +394,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_029.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_029.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_029.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_029.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_030.jpg
 Ns 96.078431
@@ -406,8 +406,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_030.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_030.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_030.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_030.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_031.jpg
 Ns 96.078431
@@ -418,8 +418,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_031.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_031.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_031.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_031.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_032.jpg
 Ns 96.078431
@@ -430,8 +430,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_032.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_032.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_032.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_032.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_033.jpg
 Ns 96.078431
@@ -442,8 +442,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_033.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_033.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_033.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_033.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_034.jpg
 Ns 96.078431
@@ -454,8 +454,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_034.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_034.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_034.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_034.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_035.jpg
 Ns 96.078431
@@ -466,8 +466,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_035.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_035.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_035.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_035.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_036.jpg
 Ns 96.078431
@@ -478,8 +478,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_036.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_036.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_036.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_036.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_037.jpg
 Ns 96.078431
@@ -490,8 +490,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_037.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_037.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_037.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_037.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_038.jpg
 Ns 96.078431
@@ -502,8 +502,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_038.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_038.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_038.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_038.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_039.jpg
 Ns 96.078431
@@ -514,8 +514,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_039.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_039.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_039.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_039.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_040.jpg
 Ns 96.078431
@@ -526,8 +526,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_040.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_040.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_040.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_040.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_041.jpg
 Ns 96.078431
@@ -538,8 +538,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_041.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_041.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_041.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_041.jpg
 
 newmtl 26fd9358fb4a4698bc21940402d0aecf_042.jpg
 Ns 96.078431
@@ -550,8 +550,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\26fd9358fb4a4698bc21940402d0aecf_042.jpg
-map_Ka C:\\Users\\Win 10 SSD\\3D Objects\\House\\26fd9358fb4a4698bc21940402d0aecf_042.jpg
+map_Kd 26fd9358fb4a4698bc21940402d0aecf_042.jpg
+map_Ka 26fd9358fb4a4698bc21940402d0aecf_042.jpg
 
 newmtl None
 Ns 0
