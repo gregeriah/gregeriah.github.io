@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\dDuXKmyWIE0_aiGZALfKrEC_obj\Asphalt_New.jpg
+map_Kd dDuXKmyWIE0_aiGZALfKrEC_obj\Asphalt_New.jpg
 
 newmtl Color_003
 Ns 96.078431
@@ -61,7 +61,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\dDuXKmyWIE0_aiGZALfKrEC_obj\Concrete_Form_4x8.jpg
+map_Kd Concrete_Form_4x8.jpg
 
 newmtl FrontColor
 Ns 96.078431
@@ -92,7 +92,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\dDuXKmyWIE0_aiGZALfKrEC_obj\M_6155_WALNUT.jpg
+map_Kd M_6155_WALNUT.jpg
 
 newmtl Metal_Rough
 Ns 96.078431
@@ -103,7 +103,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\dDuXKmyWIE0_aiGZALfKrEC_obj\Metal_Rough.jpg
+map_Kd Metal_Rough.jpg
 
 newmtl Translucent_Glass_Green_Dark
 Ns 96.078431
@@ -144,7 +144,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\dDuXKmyWIE0_aiGZALfKrEC_obj\_10.jpg
+map_Kd _10.jpg
 
 newmtl _2
 Ns 96.078431
@@ -185,7 +185,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\dDuXKmyWIE0_aiGZALfKrEC_obj\_Metal_Aluminum_Anodized_1.jpg
+map_Kd _Metal_Aluminum_Anodized_1.jpg
 
 newmtl _Metal_Rough_1
 Ns 96.078431
@@ -196,7 +196,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\dDuXKmyWIE0_aiGZALfKrEC_obj\_Metal_Rough_1.jpg
+map_Kd _Metal_Rough_1.jpg
 
 newmtl _Translucent_Glass_Gray_1
 Ns 96.078431
@@ -237,4 +237,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\Win 10 SSD\3D Objects\House\dDuXKmyWIE0_aiGZALfKrEC_obj\travertine.jpg
+map_Kd travertine.jpg
