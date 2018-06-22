@@ -1,0 +1,226 @@
+{
+    "accessors": [
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 1845021,
+            "max": [
+                1845020
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_DS smaller_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1845021,
+            "max": [
+                216.8897705078125,
+                7.608377456665039,
+                138.62457275390625
+            ],
+            "min": [
+                -244.07571411132812,
+                -139.49853515625,
+                -232.50125122070312
+            ],
+            "name": "accessor_buffer_DS smaller_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1845021,
+            "max": [
+                0.9999998211860657,
+                0.9999937415122986,
+                0.9999977350234985
+            ],
+            "min": [
+                -0.9999989867210388,
+                -0.9999999403953552,
+                -0.9999980926513672
+            ],
+            "name": "accessor_buffer_DS smaller_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1845021,
+            "max": [
+                0.9960784316062927,
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "accessor_buffer_DS smaller_COLOR_0_0",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "copyright": "",
+        "generator": "blendergltf v1.2.0",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 22140252,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_DS smaller_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 22140252,
+            "byteOffset": 22140252,
+            "byteStride": 12,
+            "name": "bufferView_buffer_DS smaller_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 22140252,
+            "byteOffset": 44280504,
+            "byteStride": 12,
+            "name": "bufferView_buffer_DS smaller_COLOR_0_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 7380088,
+            "byteOffset": 66420756,
+            "name": "bufferView_buffer_DS smaller_0",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 73800844,
+            "name": "buffer_DS smallist",
+            "uri": "buffer_DS_smallist.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "name": "Camera",
+            "perspective": {
+                "aspectRatio": 1.703595982340029,
+                "yfov": 0.5033799409866333,
+                "zfar": 100.0,
+                "znear": 0.10000000149011612
+            },
+            "type": "perspective"
+        }
+    ],
+    "meshes": [
+        {
+            "name": "DS smaller",
+            "primitives": [
+                {
+                    "attributes": {
+                        "COLOR_0": 3,
+                        "NORMAL": 2,
+                        "POSITION": 1
+                    },
+                    "indices": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "camera": 0,
+            "name": "Camera",
+            "rotation": [
+                -0.09062843769788742,
+                -0.8937962651252747,
+                -0.2099730223417282,
+                0.38578000664711
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                -7.481131553649902,
+                5.34366512298584,
+                -6.5076398849487305
+            ]
+        },
+        {
+            "mesh": 0,
+            "name": "DS smaller",
+            "rotation": [
+                1.0,
+                0.0,
+                0.0,
+                7.549790126404332e-08
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "name": "Lamp",
+            "rotation": [
+                -0.34203386306762695,
+                -0.5232755541801453,
+                -0.2841663062572479,
+                0.7269423007965088
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "translation": [
+                -4.076245307922363,
+                5.903861999511719,
+                1.0054539442062378
+            ]
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "active_camera": 0,
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                1,
+                2,
+                0
+            ]
+        }
+    ]
+}
